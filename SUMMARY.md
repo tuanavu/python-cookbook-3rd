@@ -1,4 +1,4 @@
 # Summary
 
-* [Data Structures and Algorithms](code/ch01/README.md)
-   * [Comments](code/ch01/markdown/01_unpacking_a_sequence_into_variables.md)
+* [CHAPTER 1: Data Structures and Algorithms](code/ch01/README.md)
+   * [1.1: Unpacking a Sequence into Separate Variables](code/ch01/markdown/01_unpacking_a_sequence_into_variables.md)
