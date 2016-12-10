@@ -1,6 +1,6 @@
 # Summary
 
-* [CHAPTER 1: Data Structures and Algorithms](notebooks/ch01/README.ipynb)
+* [CHAPTER 1: Data Structures and Algorithms](notebooks/ch01)
    * Unpacking a Sequence into Separate Variables [[ipynb](notebooks/ch01/01_unpacking_a_sequence_into_variables.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/python-cookbook-3rd/blob/master/notebooks/ch01/01_unpacking_a_sequence_into_variables.ipynb)]
    * Unpacking Elements from Iterables of Arbitrary Length [[ipynb](notebooks/ch01/02_unpacking_elements_from_iterables_of_arbitrary_length.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/python-cookbook-3rd/blob/master/notebooks/ch01/02_unpacking_elements_from_iterables_of_arbitrary_length.ipynb)]
    * Keeping the Last N Items [[ipynb](notebooks/ch01/03_keeping_the_last_n_items.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/python-cookbook-3rd/blob/master/notebooks/ch01/03_keeping_the_last_n_items.ipynb)]
